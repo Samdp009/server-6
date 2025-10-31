@@ -1,0 +1,115 @@
+[22:32:11] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.17.3
+[22:32:11] [main/INFO]: Loading 65 mods:
+	- balm 21.0.53
+	   \-- kuma_api 21.0.7
+	- collective 8.13
+	- colossalchests 1.8.12
+	- cyclopscore 1.26.2
+	- explorerscompass 1.21.1-2.2.5-fabric
+	- explorify 1.6.4
+	- fabric-api 0.116.7+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.5+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.1+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.5+6116a37819
+	   |-- fabric-data-generation-api-v1 20.2.34+37516cd619
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.17.3
+	   \-- mixinextras 0.5.0
+	- framework 0.9.6
+	   |-- com_electronwill_night-config_core 3.7.1
+	   |-- com_electronwill_night-config_toml 3.7.1
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- inventorytotem 3.4
+	- java 21
+	- lithostitched 1.5.0
+	- mcwdoors 1.1.2
+	- mcwwindows 2.4.0
+	- minecraft 1.21.1
+	- mr_true_ending 1-v1.1.2d
+	- naturescompass 1.21.1-2.2.7-fabric
+	- refurbished_furniture 1.0.16
+	- techreborn 5.11.19
+	   |-- reborncore 5.11.19
+	   |    \-- team_reborn_energy 4.1.0
+	   \-- team_reborn_energy 4.1.0
+	- tectonic 3.0.16
+	- waystones 21.1.22
+[22:32:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server-6/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:32:12] [main/INFO]: Compatibility level set to JAVA_17
+[22:32:12] [main/INFO]: Compatibility level set to JAVA_21
+[22:32:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[22:32:18] [main/INFO]: Loading Collective version 8.13.
+[22:32:19] [main/INFO]: Reflections took 311 ms to scan 1 urls, producing 9 keys and 76 values
+[22:32:20] [main/ERROR]: No data fixer registered for seat
+[22:32:21] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[22:32:21] [main/INFO]: TechReborn setup done!
+[22:32:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:32:23] [main/INFO]: Loaded 5123 recipes
+[22:32:24] [main/INFO]: Loaded 4621 advancements
+[22:32:25] [main/INFO]: Applied 191 biome modifications to 64 of 64 new biomes in 20.54 ms
+[22:32:25] [Server thread/INFO]: Loading server configs...
+[22:32:25] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:32:25] [Server thread/INFO]: Loading properties
+[22:32:25] [Server thread/INFO]: Default game type: SURVIVAL
+[22:32:25] [Server thread/INFO]: Generating keypair
+[22:32:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:32:25] [Server thread/INFO]: Using epoll channel type
+[22:32:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:32:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:32:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:32:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:32:26] [Server thread/INFO]: Preparing level "world"
+[22:32:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:32:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:32:32] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[22:32:32] [Server thread/INFO]: Time elapsed: 558 ms
+[22:32:32] [Server thread/INFO]: Done (6.682s)! For help, type "help"
+[22:36:36] [Server thread/INFO]: Samdp[/127.64.214.139:34641] logged in with entity id 5 at (207.23049964786247, 65.0, 317.59583293861465)
+[22:36:36] [Server thread/INFO]: Samdp joined the game
+[22:44:21] [Server thread/INFO]: Samdp has made the advancement [Acquire Hardware]
+[22:44:38] [Server thread/INFO]: Samdp has made the advancement [Isn't It Iron Pick]
+[22:46:26] [Server thread/WARN]: Samdp moved too quickly! 9.9616112777328,-1.0013359791121417,1.2790967183069597
